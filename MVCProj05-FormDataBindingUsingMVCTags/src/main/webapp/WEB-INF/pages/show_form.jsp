@@ -6,7 +6,7 @@
 <div>
     <b style="text-align: center">Student Registration</b>
 </div>
-<div>
+<div style="text-align: center">
 
     <frm:form action="register" method="post" modelAttribute="stud" >
         <table>

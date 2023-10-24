@@ -1,2 +1,6 @@
-package com.nit.MVCProj2DataRendering.service;public interface ISeasonFinderService {
+package com.nit.MVCProj2DataRendering.service;
+
+public interface ISeasonFinderService {
+
+    String findSeason();
 }
